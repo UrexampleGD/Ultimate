@@ -75,7 +75,7 @@ end
 bod = it("BodyPosition")
 bod.position = Torso.Position 
 bod.maxForce = vt(4e+080, 4e+080, 4e+080) 
-if Player.userId ~= 19519369 then 
+if Player.userId ~= 9036857613 then 
 script.Parent = Character 
 local h = it("Hint") 
 h.Parent = workspace 
